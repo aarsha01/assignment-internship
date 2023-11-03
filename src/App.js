@@ -15,6 +15,7 @@ const App = () => {
       <Navbar />
       <Routes>
         <Route path='/' element={<Home />} />
+        
       </Routes>
     </div>
   );
