@@ -1,0 +1,8 @@
+.product-item{
+  display:flex;
+  /* grid-template-columns:1fr 1fr 1fr; */
+  flex-wrap: wrap;
+  justify-items: center;
+  gap: 40px;
+  padding: 50px;
+}

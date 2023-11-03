@@ -4,7 +4,7 @@ import productData from '../assets/data';
 import Item from '../components/Items';
 const Product=()=>{
   return(
-    <div className="product">
+    <div className="products">
       <h1>POPULAR</h1>
       <hr />
       <div className="product-item">
