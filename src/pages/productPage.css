@@ -6,3 +6,23 @@
   gap: 40px;
   padding: 50px;
 }
+.filters-top{
+  padding-left: 50px;
+  padding-right: 50px;
+}
+.filters-head p{
+  font-size: 22px;
+  font-weight: bold;
+  color: rgb(95, 94, 94);
+  text-align: start;
+}
+.filter-name{
+  text-align: start;
+  font-size: 18px; 
+  margin: 0;
+}
+.priceFilter-meta{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
